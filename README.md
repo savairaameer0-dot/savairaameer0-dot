@@ -20,21 +20,21 @@
 
 ## 🎀 About Me
 
-- 🌸 Software Engineering student at **UAF**, Pakistan
-- 💻 Currently learning the **MERN Stack**, building things one commit at a time
-- 🎨 I love hand-coding UI from scratch — no shortcuts, just CSS & love
-- 🩰 Working towards freelancing on **Upwork** & **Fiverr**
-- ✨ Fun fact: I gave myself daily GitHub streak goals and I'm *obsessed*
-- 💌 Reach me anytime — I love talking about code, design, or side hustles
+- Software Engineering student at **UAF**, Pakistan
+- Currently learning the **MERN Stack**, building things one commit at a time
+-  I love hand-coding UI from scratch — no shortcuts, just CSS & love
+-  Working towards freelancing on **Upwork** & **Fiverr**
+-  Fun fact: I gave myself daily GitHub streak goals and I'm *obsessed*
+- Reach me anytime — I love talking about code, design, or side hustles
 
 > *"Small commits, cute UIs, big dreams."* 🎀
 
 <table>
 <tr>
-<td width="25%" align="center">🌷<br/><b>Learning</b><br/><sub>MERN Stack</sub></td>
-<td width="25%" align="center">🎨<br/><b>Building</b><br/><sub>Portfolio Projects</sub></td>
-<td width="25%" align="center">🤝<br/><b>Open to</b><br/><sub>Freelance Work</sub></td>
-<td width="25%" align="center">🎯<br/><b>2026 Goal</b><br/><sub>First Client Project</sub></td>
+<td width="25%" align="center"> <br/><b>Learning</b><br/><sub>MERN Stack</sub></td>
+<td width="25%" align="center"> <br/><b>Building</b><br/><sub>Portfolio Projects</sub></td>
+<td width="25%" align="center"> <br/><b>Open to</b><br/><sub>Freelance Work</sub></td>
+<td width="25%" align="center"> <br/><b>2026 Goal</b><br/><sub>First Client Project</sub></td>
 </tr>
 </table>
 
