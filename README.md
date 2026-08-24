@@ -3,7 +3,13 @@
 <!-- Header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,100:C8A2FF&height=200&section=header&text=Hi,%20I'm%20Savaira%20🎀&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Web%20Dev%20🌸&descAlignY=58&descSize=18"/>
 
+```
+         ███             ███             ███             ███             ███             ███                    ███░            ███░            ███░            ███░            ███░            ███░            ██     ███░            ███░            ███░            ███░            ███░            ███░            ███░   ███░            ███░            ███░            ███░            ███░            ███░            ███░   ███░            ███░            ███░            ███░            ███░            ███░            ███░    ██░            ███░            ███░            ███░            ███░            ███░            ███░      ░            ███░            ███░            ███░            ███░            ███░            ███░                    ░░░             ░░░             ░░░             ░░░             ░░░             ░░░               ███             ███             ███             ███             ███             ███             ███    ███░            ███░            ███░            ███░            ███░            ███░            ███░   ███░            ███░            ███░            ███░            ███░            ███░            ███░    ██░            ███░            ███░            ███░            ███░            ███░            ███░      ░            ███░            ███░            ███░            ███░            ███░            ███░                   ███░            ███░            ███░            ███░            ███░            ███░                   █___   _________███░_____    ____██░____    _____██░ .___  __________     _____ ███___                  ░/  /  /   _____/░░ /  _  \   \   \ /   /   /  _  \   |   | \______   \   /  _  \░░ \  \        ░ ███    /  /   \_____  \   /  /_\  \   \   Y   / ██/  /_\  \  |   |█ |       _/  /  /_\  \   \  \███     ██░    (  (    /        \ /    |    \   \     /███/    |    \ |   |  |    |   \█/    |    \   )  )░      ░       \  \ █/_______  / \____|__  /    \___/██░ \____|__  /█|___|  |____|_  /█\____|__  /  /  /                 \__\█░       \/   ███░   \/       ███░           \/██░            █\/░         \/ █/__/                  ███░            ███░            ███░            ███░            ███░            ███░                   ███░            ███░            ███░            ███░            ███░            ███░            ██     ███░            ███░            ███░            ███░            ███░            ███░            ███░    ░░░             ░░░             ░░░             ░░░             ░░░             ░░░             ░░░               ███             ███             ███             ███             ███             ███                    ███░            ███░            ███░            ███░            ███░            ███░                   ███░            ███░            ███░            ███░            ███░            ███░                   ███░            ███░            ███░            ███░            ███░            ███░            ██     ███░            ███░            ███░            ███░            ███░            ███░            ███░   ███░            ███░            ███░            ███░            ███░            ███░            ███░   ███░            ███░            ███░            ███░            ███░            ███░            ███░    ░░░             ░░░             ░░░             ░░░             ░░░             ░░░             ░░░               ███             ███             ███             ███             ███             ███                    ███░            ███░            ███░            ███░            ███░            ███░            ██
+```
+
 ### 💻 Building cute little corners of the web · 🌸 Learning the MERN Stack · 🎀 Open to freelance work
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=650&lines=Aspiring+Web+Developer+%F0%9F%8C%B8;Learning+the+MERN+Stack+%F0%9F%8E%80;Daily+GitHub+commits+%2B+lots+of+coffee+%E2%98%95;Open+to+freelance+work+%E2%9C%A8" alt="Typing SVG"/></a>
 
 <br/>
 
@@ -20,21 +26,21 @@
 
 ## 🎀 About Me
 
-- Software Engineering student at **UAF**, Pakistan
-- Currently learning the **MERN Stack**, building things one commit at a time
--  I love hand-coding UI from scratch — no shortcuts, just CSS & love
--  Working towards freelancing on **Upwork** & **Fiverr**
--  Fun fact: I gave myself daily GitHub streak goals and I'm *obsessed*
-- Reach me anytime — I love talking about code, design, or side hustles
+- 🌸 Software Engineering student at **UAF**, Pakistan
+- 💻 Currently learning the **MERN Stack**, building things one commit at a time
+- 🎨 I love hand-coding UI from scratch — no shortcuts, just CSS & love
+- 🩰 Working towards freelancing on **Upwork** & **Fiverr**
+- ✨ Fun fact: I gave myself daily GitHub streak goals and I'm *obsessed*
+- 💌 Reach me anytime — I love talking about code, design, or side hustles
 
 > *"Small commits, cute UIs, big dreams."* 🎀
 
 <table>
 <tr>
-<td width="25%" align="center"> <br/><b>Learning</b><br/><sub>MERN Stack</sub></td>
-<td width="25%" align="center"> <br/><b>Building</b><br/><sub>Portfolio Projects</sub></td>
-<td width="25%" align="center"> <br/><b>Open to</b><br/><sub>Freelance Work</sub></td>
-<td width="25%" align="center"> <br/><b>2026 Goal</b><br/><sub>First Client Project</sub></td>
+<td width="25%" align="center">🌷<br/><b>Learning</b><br/><sub>MERN Stack</sub></td>
+<td width="25%" align="center">🎨<br/><b>Building</b><br/><sub>Portfolio Projects</sub></td>
+<td width="25%" align="center">🤝<br/><b>Open to</b><br/><sub>Freelance Work</sub></td>
+<td width="25%" align="center">🎯<br/><b>2026 Goal</b><br/><sub>First Client Project</sub></td>
 </tr>
 </table>
 
@@ -109,6 +115,15 @@ Terminal-themed static portfolio with a rule-based chatbot and a Formspree conta
 ## 🎀 GitHub Stats
 
 <div align="center">
+
+<!-- Animated contribution snake — eats your contribution graph, one square at a time -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/savairaameer0-dot/savairaameer0-dot/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/savairaameer0-dot/savairaameer0-dot/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/savairaameer0-dot/savairaameer0-dot/output/snake.svg" width="90%"/>
+</picture>
+
+<br/><br/>
 
 <img src="https://github-stats-extended.vercel.app/api?username=savairaameer0-dot&show_icons=true&theme=transparent&hide_border=true&title_color=FF69B4&icon_color=C8A2FF&text_color=555555&count_private=true" width="48%"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=savairaameer0-dot&layout=compact&theme=transparent&hide_border=true&title_color=FF69B4&text_color=555555&langs_count=8" width="48%"/>
