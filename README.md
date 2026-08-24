@@ -110,12 +110,12 @@ Terminal-themed static portfolio with a rule-based chatbot and a Formspree conta
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=savairaameer0-dot&show_icons=true&theme=transparent&hide_border=true&title_color=FF69B4&icon_color=C8A2FF&text_color=555555&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savairaameer0-dot&layout=compact&theme=transparent&hide_border=true&title_color=FF69B4&text_color=555555&langs_count=8" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=savairaameer0-dot&show_icons=true&theme=transparent&hide_border=true&title_color=FF69B4&icon_color=C8A2FF&text_color=555555&count_private=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=savairaameer0-dot&layout=compact&theme=transparent&hide_border=true&title_color=FF69B4&text_color=555555&langs_count=8" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=savairaameer0-dot&theme=default&hide_border=true&background=00000000&ring=FF69B4&fire=C8A2FF&currStreakLabel=FF69B4" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=savairaameer0-dot&theme=default&hide_border=true&background=00000000&ring=FF69B4&fire=C8A2FF&currStreakLabel=FF69B4" width="60%"/>
 
 <br/><br/>
 
