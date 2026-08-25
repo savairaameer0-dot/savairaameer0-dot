@@ -133,11 +133,6 @@ Terminal-themed static portfolio with a rule-based chatbot and a Formspree conta
 
 <img src="https://streak-stats.demolab.com/?user=savairaameer0-dot&theme=default&hide_border=true&background=00000000&ring=FF69B4&fire=C8A2FF&currStreakLabel=FF69B4" width="60%"/>
 
-<br/><br/>
-
-<!-- Recent activity -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=savairaameer0-dot&theme=react-dark&bg_color=00000000&color=C8A2FF&line=FF69B4&point=FFD6EC&hide_border=true" width="90%"/>
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD6EC,100:E0BBFF&height=3">
