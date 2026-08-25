@@ -1,12 +1,9 @@
 <div align="center">
 
 <!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,100:C8A2FF&height=200&section=header&text=Hi,%20I'm%20Savaira%20🎀&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Web%20Dev%20🌸&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,100:C8A2FF&height=200&section=header&text=Savaira%20Ameer&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=17"/>
 
-
-### 💻 Building cute little corners of the web · 🌸 Learning the MERN Stack · 🎀 Open to freelance work
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=650&lines=Aspiring+Web+Developer+%F0%9F%8C%B8;Learning+the+MERN+Stack+%F0%9F%8E%80;Daily+GitHub+commits+%2B+lots+of+coffee+%E2%98%95;Open+to+freelance+work+%E2%9C%A8" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=C8A2FF&center=true&vCenter=true&width=650&lines=Aspiring+Web+Developer;Learning+the+MERN+Stack;Hand-coding+clean%2C+functional+UIs;Open+to+freelance+work" alt="Typing SVG"/></a>
 
 <br/>
 
@@ -19,31 +16,31 @@
 
 </div>
 
-<p align="center">˚ ༘ ೀ⋆｡˚ 🎀 ⋆。˚ ✧ ⋆ 🌸 ⋆。˚ ✧ ⋆ 🎀 ˚。⋆ ೀ˚ ༘</p>
+<p align="center">˚ ༘ ⋆｡˚ ✧ ⋆ 🎀 ⋆ ✧ ˚｡⋆ ༘˚</p>
 
-## 🎀 About Me
+## About Me
 
-- 🌸 Software Engineering student at **UAF**, Pakistan
-- 💻 Currently learning the **MERN Stack**, building things one commit at a time
-- 🎨 I love hand-coding UI from scratch — no shortcuts, just CSS & love
-- 🩰 Working towards freelancing on **Upwork** & **Fiverr**
-- ✨ Fun fact: I gave myself daily GitHub streak goals and I'm *obsessed*
-- 💌 Reach me anytime — I love talking about code, design, or side hustles
+- Software Engineering student at **UAF**, Pakistan
+- Currently learning the **MERN Stack**, building things one commit at a time
+- I hand-code every UI from scratch — no templates, just CSS and patience
+- Working towards freelancing on **Upwork** and **Fiverr**
+- Keeping a daily GitHub streak going, one commit at a time
+- Open to talking about code, design, or side projects — reach out anytime
 
-> *"Small commits, cute UIs, big dreams."* 🎀
+<blockquote>Small commits, clean UIs, big dreams.</blockquote>
 
 <table>
 <tr>
-<td width="25%" align="center">🌷<br/><b>Learning</b><br/><sub>MERN Stack</sub></td>
-<td width="25%" align="center">🎨<br/><b>Building</b><br/><sub>Portfolio Projects</sub></td>
-<td width="25%" align="center">🤝<br/><b>Open to</b><br/><sub>Freelance Work</sub></td>
-<td width="25%" align="center">🎯<br/><b>2026 Goal</b><br/><sub>First Client Project</sub></td>
+<td width="25%" align="center"><b>Learning</b><br/><sub>MERN Stack</sub></td>
+<td width="25%" align="center"><b>Building</b><br/><sub>Portfolio Projects</sub></td>
+<td width="25%" align="center"><b>Open to</b><br/><sub>Freelance Work</sub></td>
+<td width="25%" align="center"><b>2026 Goal</b><br/><sub>First Client Project</sub></td>
 </tr>
 </table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E0BBFF,100:FFD6EC&height=3">
 
-## 🩷 Skills & Tools
+## Skills & Tools
 
 <div align="center">
 
@@ -58,13 +55,17 @@
 
 <br/>
 
-<sub>🌱 Currently exploring: <b>React</b> · <b>Tailwind CSS</b> · <b>MongoDB</b></sub>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,git,github,figma&theme=light" />
+
+<br/><br/>
+
+<sub>Currently exploring: <b>React</b> · <b>Tailwind CSS</b> · <b>MongoDB</b></sub>
 
 </div>
 
-<p align="center">˚ ༘ ೀ⋆｡˚ 🌸 ⋆。˚ ✧ ⋆ 🎀 ⋆。˚ ✧ ⋆ 🌸 ˚。⋆ ೀ˚ ༘</p>
+<p align="center">˚ ༘ ⋆｡˚ ✧ ⋆ 🌸 ⋆ ✧ ˚｡⋆ ༘˚</p>
 
-## 🌷 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -72,34 +73,37 @@
 <tr>
 <td width="50%">
 
-### 💜 Expense Tracker
+### Expense Tracker
 Dark-purple dashboard with category & currency dropdowns, dynamic table rows, running totals, and delete-via-event-delegation — all hand-coded JS.
 
 `HTML` `CSS` `JavaScript`
 
-[🔗 View Repo](https://github.com/savairaameer0-dot/Expense-Tracker)
+[View Repo →](https://github.com/savairaameer0-dot/Expense-Tracker)
 
 </td>
 <td width="50%">
 
-### 🎞️ Photo Booth
+### Photo Booth
 Retro film-strip aesthetic with live CSS filters, custom SVG stickers, undo/redo, and countdown + flash animations.
 
 `HTML` `CSS` `JavaScript`
 
-[🔗 View Repo](https://github.com/savairaameer0-dot/Photo-Booth)
+[View Repo →](https://github.com/savairaameer0-dot/Photo-Booth)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🌸 Portfolio
+### Portfolio
 Terminal-themed static portfolio with a rule-based chatbot and a Formspree contact form, deployed on GitHub Pages.
 
 `HTML` `CSS` `JavaScript`
 
-[🔗 View Repo](https://github.com/savairaameer0-dot/Portfolio)
+[View Repo →](https://github.com/savairaameer0-dot/Portfolio)
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
@@ -107,9 +111,9 @@ Terminal-themed static portfolio with a rule-based chatbot and a Formspree conta
 
 </div>
 
-<p align="center">˚ ༘ ೀ⋆｡˚ 🌷 ⋆。˚ ✧ ⋆ 🩰 ⋆。˚ ✧ ⋆ 🌷 ˚。⋆ ೀ˚ ༘</p>
+<p align="center">˚ ༘ ⋆｡˚ ✧ ⋆ 🩰 ⋆ ✧ ˚｡⋆ ༘˚</p>
 
-## 🎀 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -133,11 +137,16 @@ Terminal-themed static portfolio with a rule-based chatbot and a Formspree conta
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=savairaameer0-dot&theme=react-dark&bg_color=00000000&color=C8A2FF&line=FF69B4&point=FFD6EC&hide_border=true" width="90%"/>
 
+<br/><br/>
+
+<!-- Trophy case — generated by your own GitHub Action, no external server dependency -->
+<img src="https://raw.githubusercontent.com/savairaameer0-dot/savairaameer0-dot/output/trophy.svg" width="80%"/>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD6EC,100:E0BBFF&height=3">
 
-## 💌 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -150,10 +159,10 @@ Terminal-themed static portfolio with a rule-based chatbot and a Formspree conta
 
 </div>
 
-<p align="center">˚ ༘ ೀ⋆｡˚ 🎀 ⋆。˚ ✧ ⋆ 🌸 ⋆。˚ ✧ ⋆ 🎀 ˚。⋆ ೀ˚ ༘</p>
+<p align="center">˚ ༘ ⋆｡˚ ✧ ⋆ 🎀 ⋆ ✧ ˚｡⋆ ༘˚</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A2FF,100:FFB6D9&height=120&section=footer"/>
 
 <div align="center">
-✨ Thanks for stopping by — have a lovely day 🎀🌸
+Thanks for stopping by — have a lovely day.
 </div>
