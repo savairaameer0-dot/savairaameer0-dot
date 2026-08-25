@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake and Trophy
 
 on:
   schedule:
@@ -23,7 +23,14 @@ jobs:
             dist/snake.svg?palette=github
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Push snake.svg to the output branch
+      - name: Generate trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: savairaameer0-dot
+          output_path: dist/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push generated files to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
