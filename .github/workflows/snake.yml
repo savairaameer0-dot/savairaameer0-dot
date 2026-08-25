@@ -23,13 +23,6 @@ jobs:
             dist/snake.svg?palette=github
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Generate trophy SVG
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: savairaameer0-dot
-          file: dist/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate activity graph
         uses: lowlighter/metrics@latest
         with:
