@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,100:C8A2FF&height=200&section=header&text=Savaira%20Ameer&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,100:C8A2FF&height=200&section=header&text=SAVAIRA%20AMEER&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=17"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=C8A2FF&center=true&vCenter=true&width=650&lines=Aspiring+Web+Developer;Learning+the+MERN+Stack;Hand-coding+clean%2C+functional+UIs;Open+to+freelance+work" alt="Typing SVG"/></a>
 
@@ -126,12 +126,12 @@ Terminal-themed static portfolio with a rule-based chatbot and a Formspree conta
 
 <br/><br/>
 
-<img src="https://github-stats-extended.vercel.app/api?username=savairaameer0-dot&show_icons=true&theme=transparent&hide_border=true&title_color=FF69B4&icon_color=C8A2FF&text_color=555555&count_private=true" width="48%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=savairaameer0-dot&layout=compact&theme=transparent&hide_border=true&title_color=FF69B4&text_color=555555&langs_count=8" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=savairaameer0-dot&show_icons=true&theme=transparent&hide_border=true&title_color=FF69B4&icon_color=C8A2FF&text_color=E0BBFF&count_private=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=savairaameer0-dot&layout=compact&theme=transparent&hide_border=true&title_color=FF69B4&text_color=E0BBFF&langs_count=8" width="48%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=savairaameer0-dot&theme=default&hide_border=true&background=00000000&ring=FF69B4&fire=C8A2FF&currStreakLabel=FF69B4" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=savairaameer0-dot&theme=default&hide_border=true&background=00000000&ring=FF69B4&fire=FF2E93&currStreakLabel=FF69B4&currStreakNum=FFFFFF&sideNums=FFB6D9&sideLabels=E0BBFF&dates=C8A2FF" width="60%"/>
 
 </div>
 
