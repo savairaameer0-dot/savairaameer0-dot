@@ -1,4 +1,4 @@
-name: Generate Snake and Trophy
+name: Generate Snake and Activity Graph
 
 on:
   schedule:
