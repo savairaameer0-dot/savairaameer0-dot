@@ -1,28 +1,28 @@
 <div align="center">
 
 <!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,50:E0BBFF,100:C8A2FF&height=220&section=header&text=Savaira%20Ameer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=56&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A3323,50:839958,100:D3968C&height=220&section=header&text=Savaira%20Ameer&fontSize=48&fontColor=F7F4D5&animation=fadeIn&fontAlignY=34&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=56&descSize=17"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=C8A2FF&center=true&vCenter=true&width=650&lines=Aspiring+Web+Developer;Learning+the+MERN+Stack;Hand-coding+clean%2C+functional+UIs;Open+to+freelance+work" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=105666&center=true&vCenter=true&width=650&lines=Aspiring+Web+Developer;Learning+the+MERN+Stack;Hand-coding+clean%2C+functional+UIs;Open+to+freelance+work" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <!-- Quick nav -->
 <p>
-  <a href="#-about-me"><img src="https://img.shields.io/badge/About-FFD6EC?style=for-the-badge&labelColor=FFD6EC&color=FFD6EC" height="26"/></a>
-  <a href="#-skills--tools"><img src="https://img.shields.io/badge/Skills-E0BBFF?style=for-the-badge&labelColor=E0BBFF&color=E0BBFF" height="26"/></a>
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-FFB6D9?style=for-the-badge&labelColor=FFB6D9&color=FFB6D9" height="26"/></a>
-  <a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-C8A2FF?style=for-the-badge&labelColor=C8A2FF&color=C8A2FF" height="26"/></a>
-  <a href="#-lets-connect"><img src="https://img.shields.io/badge/Connect-FFD6EC?style=for-the-badge&labelColor=FFD6EC&color=FFD6EC" height="26"/></a>
+  <a href="#-about-me"><img src="https://img.shields.io/badge/About-0A3323?style=for-the-badge&labelColor=0A3323&color=0A3323" height="26"/></a>
+  <a href="#-skills--tools"><img src="https://img.shields.io/badge/Skills-839958?style=for-the-badge&labelColor=839958&color=839958" height="26"/></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-D3968C?style=for-the-badge&labelColor=D3968C&color=D3968C" height="26"/></a>
+  <a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-105666?style=for-the-badge&labelColor=105666&color=105666" height="26"/></a>
+  <a href="#-lets-connect"><img src="https://img.shields.io/badge/Connect-0A3323?style=for-the-badge&labelColor=0A3323&color=0A3323" height="26"/></a>
 </p>
 
-<p>˚ ༘ ⋆｡˚ ✧ ⋆ 🎀 ⋆ ✧ ˚｡⋆ ༘˚</p>
+<p>🌿 ⋆｡˚ ✧ ⋆ 🪷 ⋆ ✧ ˚｡⋆ 🌿</p>
 
 </div>
 
-## 🎀 About Me
+## 🪷 About Me
 
 - 🎓 Software Engineering student at **UAF**, Pakistan
 - 🌱 Currently learning the **MERN Stack**, building things one commit at a time
@@ -46,9 +46,9 @@
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E0BBFF,100:FFD6EC&height=3">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:839958,100:D3968C&height=3">
 
-## 🌸 Skills & Tools
+## 🌿 Skills & Tools
 
 <div align="center">
 
@@ -56,14 +56,14 @@
 
 <br/><br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-FFD6EC?style=for-the-badge&logo=html5&logoColor=E4405F)
-![CSS3](https://img.shields.io/badge/CSS3-E0BBFF?style=for-the-badge&logo=css3&logoColor=663399)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFB6D9?style=for-the-badge&logo=javascript&logoColor=444)
-![Node.js](https://img.shields.io/badge/Node.js-C8A2FF?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-FFD6EC?style=for-the-badge&logo=express&logoColor=000)
-![MySQL](https://img.shields.io/badge/MySQL-E0BBFF?style=for-the-badge&logo=mysql&logoColor=00546A)
-![Git](https://img.shields.io/badge/Git-FFB6D9?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-C8A2FF?style=for-the-badge&logo=github&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-0A3323?style=for-the-badge&logo=html5&logoColor=F7F4D5)
+![CSS3](https://img.shields.io/badge/CSS3-839958?style=for-the-badge&logo=css3&logoColor=F7F4D5)
+![JavaScript](https://img.shields.io/badge/JavaScript-D3968C?style=for-the-badge&logo=javascript&logoColor=0A3323)
+![Node.js](https://img.shields.io/badge/Node.js-105666?style=for-the-badge&logo=node.js&logoColor=F7F4D5)
+![Express](https://img.shields.io/badge/Express-0A3323?style=for-the-badge&logo=express&logoColor=F7F4D5)
+![MySQL](https://img.shields.io/badge/MySQL-839958?style=for-the-badge&logo=mysql&logoColor=F7F4D5)
+![Git](https://img.shields.io/badge/Git-D3968C?style=for-the-badge&logo=git&logoColor=0A3323)
+![GitHub](https://img.shields.io/badge/GitHub-105666?style=for-the-badge&logo=github&logoColor=F7F4D5)
 
 <br/>
 
@@ -71,9 +71,9 @@
 
 </div>
 
-<p align="center">˚ ༘ ⋆｡˚ ✧ ⋆ 🌸 ⋆ ✧ ˚｡⋆ ༘˚</p>
+<p align="center">🌿 ⋆｡˚ ✧ ⋆ 🪷 ⋆ ✧ ˚｡⋆ 🌿</p>
 
-## 🩰 Featured Projects
+## 🪻 Featured Projects
 
 <div align="center">
 
@@ -124,9 +124,9 @@ New projects are always brewing — check back soon, or take a look at my pinned
 
 </div>
 
-<p align="center">˚ ༘ ⋆｡˚ ✧ ⋆ 🎀 ⋆ ✧ ˚｡⋆ ༘˚</p>
+<p align="center">🌿 ⋆｡˚ ✧ ⋆ 🪷 ⋆ ✧ ˚｡⋆ 🌿</p>
 
-## 💗 GitHub Stats
+## 🌾 GitHub Stats
 
 <div align="center">
 
@@ -139,34 +139,34 @@ New projects are always brewing — check back soon, or take a look at my pinned
 
 <br/><br/>
 
-<img src="https://github-stats-extended.vercel.app/api?username=savairaameer0-dot&show_icons=true&theme=transparent&hide_border=true&title_color=FF69B4&icon_color=C8A2FF&text_color=E0BBFF&count_private=true" width="48%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=savairaameer0-dot&layout=compact&theme=transparent&hide_border=true&title_color=FF69B4&text_color=E0BBFF&langs_count=8" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=savairaameer0-dot&show_icons=true&theme=transparent&hide_border=true&title_color=D3968C&icon_color=839958&text_color=105666&count_private=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=savairaameer0-dot&layout=compact&theme=transparent&hide_border=true&title_color=D3968C&text_color=105666&langs_count=8" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=savairaameer0-dot&theme=default&hide_border=true&background=00000000&ring=FF69B4&fire=FF2E93&currStreakLabel=FF69B4&currStreakNum=FFFFFF&sideNums=FFB6D9&sideLabels=E0BBFF&dates=C8A2FF" width="60%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=savairaameer0-dot&theme=default&hide_border=true&background=00000000&ring=D3968C&fire=0A3323&currStreakLabel=D3968C&currStreakNum=105666&sideNums=839958&sideLabels=105666&dates=839958" width="60%"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD6EC,100:E0BBFF&height=3">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D3968C,100:0A3323&height=3">
 
 ## 💌 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6D9?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/savaira-ameer-024166404)
-[![Gmail](https://img.shields.io/badge/Gmail-E0BBFF?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:savairaameer0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-105666?style=for-the-badge&logo=linkedin&logoColor=F7F4D5)](https://linkedin.com/in/savaira-ameer-024166404)
+[![Gmail](https://img.shields.io/badge/Gmail-D3968C?style=for-the-badge&logo=gmail&logoColor=0A3323)](mailto:savairaameer0@gmail.com)
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=savairaameer0-dot&label=Profile%20Views&color=FF69B4&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=savairaameer0-dot&label=Profile%20Views&color=839958&style=flat" alt="profile views"/>
 
 </div>
 
-<p align="center">˚ ༘ ⋆｡˚ ✧ ⋆ 🎀 ⋆ ✧ ˚｡⋆ ༘˚</p>
+<p align="center">🌿 ⋆｡˚ ✧ ⋆ 🪷 ⋆ ✧ ˚｡⋆ 🌿</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A2FF,100:FFB6D9&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D3968C,100:0A3323&height=120&section=footer"/>
 
 <div align="center">
-Thanks for stopping by — have a lovely day. 🌷
+Thanks for stopping by — have a lovely day. 🪷
 </div>
