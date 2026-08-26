@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header banner -->
-<img width="100%" src="https://raw.githubusercontent.com/savairaameer0-dot/savairaameer0-dot/main/assets/banner.svg"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:503429,50:AE5369,100:D58198&height=220&section=header&text=Savaira%20Ameer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=56&descSize=17"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=AE5369&center=true&vCenter=true&width=650&lines=Aspiring+Web+Developer;Learning+the+MERN+Stack;Hand-coding+clean%2C+functional+UIs;Open+to+freelance+work" alt="Typing SVG"/>
