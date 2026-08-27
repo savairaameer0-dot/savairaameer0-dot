@@ -141,16 +141,12 @@ Currently leveling up with **React**, **Tailwind CSS**, and **MongoDB** — new 
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=savairaameer0-dot&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=FF5FA2&icon_color=C8A2FF&text_color=B57EDC" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savairaameer0-dot&layout=compact&hide_border=true&theme=transparent&title_color=FF5FA2&text_color=B57EDC&langs_count=8" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=savairaameer0-dot&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=FF5FA2&icon_color=C8A2FF&text_color=B57EDC" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=savairaameer0-dot&layout=compact&hide_border=true&theme=transparent&title_color=FF5FA2&text_color=B57EDC&langs_count=8" width="48%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=savairaameer0-dot&hide_border=true&background=00000000&ring=FF69B4&fire=FF2E93&currStreakLabel=FF5FA2&currStreakNum=B57EDC&sideNums=FF9EC7&sideLabels=C8A2FF&dates=B57EDC" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=savairaameer0-dot&theme=flat&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="90%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=savairaameer0-dot&hide_border=true&background=00000000&ring=FF69B4&fire=FF2E93&currStreakLabel=FF5FA2&currStreakNum=B57EDC&sideNums=FF9EC7&sideLabels=C8A2FF&dates=B57EDC" width="60%"/>
 
 </div>
 
