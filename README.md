@@ -1,23 +1,23 @@
 <div align="center">
 
 <!-- ✨ Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:6D28D9,100:A3E635&height=210&section=header&text=Savaira%20Ameer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2B2E,50:00585E,100:D9C9B0&height=210&section=header&text=Savaira%20Ameer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=16"/>
 
 <!-- ⌨️ Terminal-style typing headline -->
-<a href="https://github.com/savairaameer0-dot"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A3E635&center=true&vCenter=true&width=680&lines=%3E+Aspiring+Full-Stack+Developer;%3E+Learning+the+MERN+Stack;%3E+Hand-coding+clean%2C+functional+UIs;%3E+Open+to+freelance+work" alt="Typing SVG"/></a>
+<a href="https://github.com/savairaameer0-dot"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=D9C9B0&center=true&vCenter=true&width=680&lines=%3E+Aspiring+Full-Stack+Developer;%3E+Learning+the+MERN+Stack;%3E+Hand-coding+clean%2C+functional+UIs;%3E+Open+to+freelance+work" alt="Typing SVG"/></a>
 
 <br/>
 
 <!-- 🧭 Clickable nav — jumps to each section -->
-<a href="#about-me"><img src="https://img.shields.io/badge/About-6D28D9?style=for-the-badge"/></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-A3E635?style=for-the-badge"/></a>
-<a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge"/></a>
-<a href="#github-stats"><img src="https://img.shields.io/badge/Stats-84CC16?style=for-the-badge"/></a>
-<a href="#connect"><img src="https://img.shields.io/badge/Connect-6D28D9?style=for-the-badge"/></a>
+<a href="#about-me"><img src="https://img.shields.io/badge/About-00585E?style=for-the-badge"/></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-D9C9B0?style=for-the-badge"/></a>
+<a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-6B264B?style=for-the-badge"/></a>
+<a href="#github-stats"><img src="https://img.shields.io/badge/Stats-8C3A63?style=for-the-badge"/></a>
+<a href="#connect"><img src="https://img.shields.io/badge/Connect-00585E?style=for-the-badge"/></a>
 
 </div>
 
-<p align="center">˚ ༘ ⋆｡˚ ✧ ⋆ 💜 ⋆ ✧ ˚｡⋆ ༘˚</p>
+<p align="center">˚ ༘ ⋆｡˚ ✧ ⋆ 🌊 ⋆ ✧ ˚｡⋆ ༘˚</p>
 
 ## About Me
 
@@ -30,7 +30,7 @@ const savaira = {
   toolkit: ["HTML", "CSS", "JavaScript", "Node", "Express", "MySQL"],
   codeStyle: "hand-crafted UIs — no templates, just CSS & patience",
   currently: "building portfolio projects, one commit at a time",
-  goal2026: "land my first freelance client 💜"
+  goal2026: "land my first freelance client"
 };
 ```
 
@@ -47,20 +47,20 @@ const savaira = {
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:A3E635&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6B264B,100:D9C9B0&height=3"/>
 
 ## Tech Stack
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-2E1065?style=for-the-badge&logo=html5&logoColor=A3E635)
-![CSS3](https://img.shields.io/badge/CSS3-2E1065?style=for-the-badge&logo=css3&logoColor=A3E635)
-![JavaScript](https://img.shields.io/badge/JavaScript-2E1065?style=for-the-badge&logo=javascript&logoColor=A3E635)
-![Node.js](https://img.shields.io/badge/Node.js-2E1065?style=for-the-badge&logo=node.js&logoColor=A3E635)
-![Express](https://img.shields.io/badge/Express-2E1065?style=for-the-badge&logo=express&logoColor=A3E635)
-![MySQL](https://img.shields.io/badge/MySQL-2E1065?style=for-the-badge&logo=mysql&logoColor=A3E635)
-![Git](https://img.shields.io/badge/Git-2E1065?style=for-the-badge&logo=git&logoColor=A3E635)
-![GitHub](https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=A3E635)
+![HTML5](https://img.shields.io/badge/HTML5-0B2B2E?style=for-the-badge&logo=html5&logoColor=D9C9B0)
+![CSS3](https://img.shields.io/badge/CSS3-0B2B2E?style=for-the-badge&logo=css3&logoColor=D9C9B0)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B2B2E?style=for-the-badge&logo=javascript&logoColor=D9C9B0)
+![Node.js](https://img.shields.io/badge/Node.js-0B2B2E?style=for-the-badge&logo=node.js&logoColor=D9C9B0)
+![Express](https://img.shields.io/badge/Express-0B2B2E?style=for-the-badge&logo=express&logoColor=D9C9B0)
+![MySQL](https://img.shields.io/badge/MySQL-0B2B2E?style=for-the-badge&logo=mysql&logoColor=D9C9B0)
+![Git](https://img.shields.io/badge/Git-0B2B2E?style=for-the-badge&logo=git&logoColor=D9C9B0)
+![GitHub](https://img.shields.io/badge/GitHub-0B2B2E?style=for-the-badge&logo=github&logoColor=D9C9B0)
 
 <br/>
 
@@ -85,12 +85,12 @@ const savaira = {
 A dark-purple dashboard with category & currency dropdowns, dynamic table rows, running totals, and delete-via-event-delegation — all hand-coded JavaScript.
 
 <p>
-<img src="https://img.shields.io/badge/HTML-4C1D95?style=flat-square&logo=html5&logoColor=A3E635"/>
-<img src="https://img.shields.io/badge/CSS-4C1D95?style=flat-square&logo=css3&logoColor=A3E635"/>
-<img src="https://img.shields.io/badge/JavaScript-4C1D95?style=flat-square&logo=javascript&logoColor=A3E635"/>
+<img src="https://img.shields.io/badge/HTML-123638?style=flat-square&logo=html5&logoColor=D9C9B0"/>
+<img src="https://img.shields.io/badge/CSS-123638?style=flat-square&logo=css3&logoColor=D9C9B0"/>
+<img src="https://img.shields.io/badge/JavaScript-123638?style=flat-square&logo=javascript&logoColor=D9C9B0"/>
 </p>
 
-<a href="https://github.com/savairaameer0-dot/Expense-Tracker"><img src="https://img.shields.io/badge/View%20Repo-A3E635?style=for-the-badge&logo=github&logoColor=2E1065"/></a>
+<a href="https://github.com/savairaameer0-dot/Expense-Tracker"><img src="https://img.shields.io/badge/View%20Repo-D9C9B0?style=for-the-badge&logo=github&logoColor=0B2B2E"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -99,12 +99,12 @@ A dark-purple dashboard with category & currency dropdowns, dynamic table rows, 
 A retro film-strip experience with live CSS filters, custom SVG stickers, undo/redo, and countdown + flash animations.
 
 <p>
-<img src="https://img.shields.io/badge/HTML-4C1D95?style=flat-square&logo=html5&logoColor=A3E635"/>
-<img src="https://img.shields.io/badge/CSS-4C1D95?style=flat-square&logo=css3&logoColor=A3E635"/>
-<img src="https://img.shields.io/badge/JavaScript-4C1D95?style=flat-square&logo=javascript&logoColor=A3E635"/>
+<img src="https://img.shields.io/badge/HTML-123638?style=flat-square&logo=html5&logoColor=D9C9B0"/>
+<img src="https://img.shields.io/badge/CSS-123638?style=flat-square&logo=css3&logoColor=D9C9B0"/>
+<img src="https://img.shields.io/badge/JavaScript-123638?style=flat-square&logo=javascript&logoColor=D9C9B0"/>
 </p>
 
-<a href="https://github.com/savairaameer0-dot/Photo-Booth"><img src="https://img.shields.io/badge/View%20Repo-A3E635?style=for-the-badge&logo=github&logoColor=2E1065"/></a>
+<a href="https://github.com/savairaameer0-dot/Photo-Booth"><img src="https://img.shields.io/badge/View%20Repo-D9C9B0?style=for-the-badge&logo=github&logoColor=0B2B2E"/></a>
 
 </td>
 </tr>
@@ -115,12 +115,12 @@ A retro film-strip experience with live CSS filters, custom SVG stickers, undo/r
 A terminal-themed static portfolio with a rule-based chatbot and a Formspree contact form, deployed on GitHub Pages.
 
 <p>
-<img src="https://img.shields.io/badge/HTML-4C1D95?style=flat-square&logo=html5&logoColor=A3E635"/>
-<img src="https://img.shields.io/badge/CSS-4C1D95?style=flat-square&logo=css3&logoColor=A3E635"/>
-<img src="https://img.shields.io/badge/JavaScript-4C1D95?style=flat-square&logo=javascript&logoColor=A3E635"/>
+<img src="https://img.shields.io/badge/HTML-123638?style=flat-square&logo=html5&logoColor=D9C9B0"/>
+<img src="https://img.shields.io/badge/CSS-123638?style=flat-square&logo=css3&logoColor=D9C9B0"/>
+<img src="https://img.shields.io/badge/JavaScript-123638?style=flat-square&logo=javascript&logoColor=D9C9B0"/>
 </p>
 
-<a href="https://github.com/savairaameer0-dot/Portfolio"><img src="https://img.shields.io/badge/View%20Repo-A3E635?style=for-the-badge&logo=github&logoColor=2E1065"/></a>
+<a href="https://github.com/savairaameer0-dot/Portfolio"><img src="https://img.shields.io/badge/View%20Repo-D9C9B0?style=for-the-badge&logo=github&logoColor=0B2B2E"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -147,35 +147,35 @@ Currently leveling up with **React**, **Tailwind CSS**, and **MongoDB** — new 
 
 <br/><br/>
 
-<img src="https://github-stats-extended.vercel.app/api?username=savairaameer0-dot&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=A3E635&icon_color=A3E635&text_color=8B5CF6" width="48%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=savairaameer0-dot&layout=compact&hide_border=true&theme=transparent&title_color=A3E635&text_color=8B5CF6&langs_count=8" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=savairaameer0-dot&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=D9C9B0&icon_color=D9C9B0&text_color=C48AA0" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=savairaameer0-dot&layout=compact&hide_border=true&theme=transparent&title_color=D9C9B0&text_color=C48AA0&langs_count=8" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=savairaameer0-dot&hide_border=true&background=00000000&ring=A3E635&fire=A3E635&currStreakLabel=A3E635&currStreakNum=8B5CF6&sideNums=A3E635&sideLabels=7C3AED&dates=8B5CF6" width="60%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=savairaameer0-dot&hide_border=true&background=00000000&ring=D9C9B0&fire=D9C9B0&currStreakLabel=D9C9B0&currStreakNum=C48AA0&sideNums=D9C9B0&sideLabels=6B264B&dates=C48AA0" width="60%"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A3E635,100:7C3AED&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D9C9B0,100:6B264B&height=3"/>
 
 ## Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/savaira-ameer-024166404"><img src="https://img.shields.io/badge/LinkedIn-2E1065?style=for-the-badge&logo=linkedin&logoColor=A3E635"/></a>
-<a href="mailto:savairaameer0@gmail.com"><img src="https://img.shields.io/badge/Gmail-2E1065?style=for-the-badge&logo=gmail&logoColor=A3E635"/></a>
-<a href="https://github.com/savairaameer0-dot"><img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=A3E635"/></a>
+<a href="https://linkedin.com/in/savaira-ameer-024166404"><img src="https://img.shields.io/badge/LinkedIn-0B2B2E?style=for-the-badge&logo=linkedin&logoColor=D9C9B0"/></a>
+<a href="mailto:savairaameer0@gmail.com"><img src="https://img.shields.io/badge/Gmail-0B2B2E?style=for-the-badge&logo=gmail&logoColor=D9C9B0"/></a>
+<a href="https://github.com/savairaameer0-dot"><img src="https://img.shields.io/badge/GitHub-0B2B2E?style=for-the-badge&logo=github&logoColor=D9C9B0"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=savairaameer0-dot&label=Profile%20Views&color=A3E635&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=savairaameer0-dot&label=Profile%20Views&color=D9C9B0&style=flat" alt="profile views"/>
 
 </div>
 
-<p align="center">˚ ༘ ⋆｡˚ ✧ ⋆ 💚 ⋆ ✧ ˚｡⋆ ༘˚</p>
+<p align="center">˚ ༘ ⋆｡˚ ✧ ⋆ 🍷 ⋆ ✧ ˚｡⋆ ༘˚</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A3E635,50:6D28D9,100:2E1065&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D9C9B0,50:00585E,100:0B2B2E&height=120&section=footer"/>
 
 <div align="center">
-💜💚 Thanks for stopping by — have a lovely day!
+🍷🌊 Thanks for stopping by — have a lovely day!
 </div>
