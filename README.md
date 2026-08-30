@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✨ Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2B2E,50:00585E,100:D9C9B0&height=210&section=header&text=Savaira%20Ameer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2B2E,50:00585E,100:D9C9B0&height=210&section=header&text=Savaira%20Ameer&fontSize=48&fontColor=EC9ABE&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=16"/>
 
 <!-- ⌨️ Terminal-style typing headline -->
 <a href="https://github.com/savairaameer0-dot"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=D9C9B0&center=true&vCenter=true&width=680&lines=%3E+Aspiring+Full-Stack+Developer;%3E+Learning+the+MERN+Stack;%3E+Hand-coding+clean%2C+functional+UIs;%3E+Open+to+freelance+work" alt="Typing SVG"/></a>
