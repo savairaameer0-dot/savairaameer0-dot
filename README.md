@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2B2E,50:00585E,100:D9C9B0&height=210&section=header&text=Savaira%20Ameer&fontSize=48&fontColor=EC9ABE&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=16"/>
 
 <!-- ⌨️ Terminal-style typing headline -->
-<a href="https://github.com/savairaameer0-dot"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=D9C9B0&center=true&vCenter=true&width=680&lines=%3E+Aspiring+Full-Stack+Developer;%3E+Learning+the+MERN+Stack;%3E+Hand-coding+clean%2C+functional+UIs;%3E+Open+to+freelance+work" alt="Typing SVG"/></a>
+<a href="https://github.com/savairaameer0-dot"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=B33C6E&center=true&vCenter=true&width=680&lines=%3E+Aspiring+Full-Stack+Developer;%3E+Learning+the+MERN+Stack;%3E+Hand-coding+clean%2C+functional+UIs;%3E+Open+to+freelance+work" alt="Typing SVG"/></a>
 
 <br/>
 
@@ -142,17 +142,21 @@ Currently leveling up with **React**, **Tailwind CSS**, and **MongoDB** — new 
 
 <div align="center">
 
-<!-- 🐍 Contribution snake (via the Platane/snk GitHub Action → "output" branch) -->
-<img width="100%" src="https://raw.githubusercontent.com/savairaameer0-dot/savairaameer0-dot/output/snake.svg"/>
+<!-- 🐍 Contribution snake (via the Platane/snk GitHub Action → "output" branch) — auto-switches with page theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/savairaameer0-dot/savairaameer0-dot/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/savairaameer0-dot/savairaameer0-dot/output/snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/savairaameer0-dot/savairaameer0-dot/output/snake.svg"/>
+</picture>
 
 <br/><br/>
 
-<img src="https://github-stats-extended.vercel.app/api?username=savairaameer0-dot&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=D9C9B0&icon_color=D9C9B0&text_color=C48AA0" width="48%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=savairaameer0-dot&layout=compact&hide_border=true&theme=transparent&title_color=D9C9B0&text_color=C48AA0&langs_count=8" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=savairaameer0-dot&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=128C93&icon_color=128C93&text_color=B33C6E" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=savairaameer0-dot&layout=compact&hide_border=true&theme=transparent&title_color=128C93&text_color=B33C6E&langs_count=8" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=savairaameer0-dot&hide_border=true&background=00000000&ring=D9C9B0&fire=D9C9B0&currStreakLabel=D9C9B0&currStreakNum=C48AA0&sideNums=D9C9B0&sideLabels=6B264B&dates=C48AA0" width="60%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=savairaameer0-dot&hide_border=true&background=00000000&ring=128C93&fire=B33C6E&currStreakLabel=B33C6E&currStreakNum=128C93&sideNums=B33C6E&sideLabels=128C93&dates=B33C6E" width="60%"/>
 
 </div>
 
