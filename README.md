@@ -9,12 +9,11 @@
 <br/>
 
 <!-- 🧭 Clickable nav — jumps to each section -->
-<a href="#about-me"><img src="https://img.shields.io/badge/About-00827F?style=for-the-badge"/></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-FF66CC?style=for-the-badge"/></a>
-<a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-C2368C?style=for-the-badge"/></a>
-<a href="#github-stats"><img src="https://img.shields.io/badge/Stats-C2368C?style=for-the-badge"/></a>
-<a href="#connect"><img src="https://img.shields.io/badge/Connect-00827F?style=for-the-badge"/></a>
-
+<a href="#about-me"><img src="https://img.shields.io/badge/About-3A0940?style=for-the-badge&color=3A0940"/></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-F6D66C?style=for-the-badge&color=F6D66C"/></a>
+<a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-3A0940?style=for-the-badge&color=3A0940"/></a>
+<a href="#github-stats"><img src="https://img.shields.io/badge/Stats-3A0940?style=for-the-badge&color=3A0940"/></a>
+<a href="#connect"><img src="https://img.shields.io/badge/Connect-F6D66C?style=for-the-badge&color=F6D66C"/></a>
 </div>
 
 <p align="center">˚ ༘ ⋆｡˚ ✧ ⋆ 🌿 ⋆ ✧ ˚｡⋆ ༘˚</p>
@@ -53,14 +52,14 @@ const savaira = {
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-04302F?style=for-the-badge&logo=html5&logoColor=FF66CC)
-![CSS3](https://img.shields.io/badge/CSS3-04302F?style=for-the-badge&logo=css3&logoColor=FF66CC)
-![JavaScript](https://img.shields.io/badge/JavaScript-04302F?style=for-the-badge&logo=javascript&logoColor=FF66CC)
-![Node.js](https://img.shields.io/badge/Node.js-04302F?style=for-the-badge&logo=node.js&logoColor=FF66CC)
-![Express](https://img.shields.io/badge/Express-04302F?style=for-the-badge&logo=express&logoColor=FF66CC)
-![MySQL](https://img.shields.io/badge/MySQL-04302F?style=for-the-badge&logo=mysql&logoColor=FF66CC)
-![Git](https://img.shields.io/badge/Git-04302F?style=for-the-badge&logo=git&logoColor=FF66CC)
-![GitHub](https://img.shields.io/badge/GitHub-04302F?style=for-the-badge&logo=github&logoColor=FF66CC)
+![HTML5](https://img.shields.io/badge/HTML5-3A0940?style=for-the-badge&logo=html5&logoColor=F6D66C)
+![CSS3](https://img.shields.io/badge/CSS3-3A0940?style=for-the-badge&logo=css3&logoColor=F6D66C)
+![JavaScript](https://img.shields.io/badge/JavaScript-3A0940?style=for-the-badge&logo=javascript&logoColor=F6D66C)
+![Node.js](https://img.shields.io/badge/Node.js-3A0940?style=for-the-badge&logo=node.js&logoColor=F6D66C)
+![Express](https://img.shields.io/badge/Express-3A0940?style=for-the-badge&logo=express&logoColor=F6D66C)
+![MySQL](https://img.shields.io/badge/MySQL-3A0940?style=for-the-badge&logo=mysql&logoColor=F6D66C)
+![Git](https://img.shields.io/badge/Git-3A0940?style=for-the-badge&logo=git&logoColor=F6D66C)
+![GitHub](https://img.shields.io/badge/GitHub-3A0940?style=for-the-badge&logo=github&logoColor=F6D66C)
 
 <br/>
 
@@ -85,9 +84,9 @@ const savaira = {
 A dark-purple dashboard with category & currency dropdowns, dynamic table rows, running totals, and delete-via-event-delegation — all hand-coded JavaScript.
 
 <p>
-<img src="https://img.shields.io/badge/HTML-04302F?style=flat-square&logo=html5&logoColor=FF66CC"/>
-<img src="https://img.shields.io/badge/CSS-04302F?style=flat-square&logo=css3&logoColor=FF66CC"/>
-<img src="https://img.shields.io/badge/JavaScript-04302F?style=flat-square&logo=javascript&logoColor=FF66CC"/>
+<img src="https://img.shields.io/badge/HTML-3A0940?style=flat-square&logo=html5&logoColor=F6D66C"/>
+<img src="https://img.shields.io/badge/CSS-3A0940?style=flat-square&logo=css3&logoColor=F6D66C"/>
+<img src="https://img.shields.io/badge/JavaScript-3A0940?style=flat-square&logo=javascript&logoColor=F6D66C"/>
 </p>
 
 <a href="https://github.com/savairaameer0-dot/Expense-Tracker"><img src="https://img.shields.io/badge/View%20Repo-FF66CC?style=for-the-badge&logo=github&logoColor=04302F"/></a>
