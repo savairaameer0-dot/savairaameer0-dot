@@ -163,10 +163,9 @@ Currently leveling up with **React**, **Tailwind CSS**, and **MongoDB** — new 
 
 <div align="center">
 
-<a href="https://linkedin.com/in/savaira-ameer-024166404"><img src="https://img.shields.io/badge/LinkedIn-04302F?style=for-the-badge&logo=linkedin&logoColor=FF66CC"/></a>
-<a href="mailto:savairaameer0@gmail.com"><img src="https://img.shields.io/badge/Gmail-04302F?style=for-the-badge&logo=gmail&logoColor=FF66CC"/></a>
-<a href="https://github.com/savairaameer0-dot"><img src="https://img.shields.io/badge/GitHub-04302F?style=for-the-badge&logo=github&logoColor=FF66CC"/></a>
-
+<a href="https://linkedin.com/in/savaira-ameer-024166404"><img src="https://img.shields.io/badge/LinkedIn-3A0940?style=for-the-badge&logo=linkedin&logoColor=F6D66C"/></a>
+<a href="mailto:savairaameer0@gmail.com"><img src="https://img.shields.io/badge/Gmail-3A0940?style=for-the-badge&logo=gmail&logoColor=F6D66C"/></a>
+<a href="https://github.com/savairaameer0-dot"><img src="https://img.shields.io/badge/GitHub-3A0940?style=for-the-badge&logo=github&logoColor=F6D66C"/></a>
 <br/><br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D66C,50:6B1F6E,100:3A0940&height=120&section=footer"/>
 </div>
