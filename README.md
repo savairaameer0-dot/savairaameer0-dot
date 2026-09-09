@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- ✨ Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04302F,50:00827F,100:FF66CC&height=210&section=header&text=Savaira%20Ameer&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=16"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0940,50:6B1F6E,100:F6D66C&height=210&section=header&text=Savaira%20Ameer&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=60&descSize=16"/>
 <!-- ⌨️ Terminal-style typing headline -->
 <a href="https://github.com/savairaameer0-dot"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=C2368C&center=true&vCenter=true&width=680&lines=%3E+Aspiring+Full-Stack+Developer;%3E+Learning+the+MERN+Stack;%3E+Hand-coding+clean%2C+functional+UIs;%3E+Open+to+freelance+work" alt="Typing SVG"/></a>
 
@@ -45,8 +44,7 @@ const savaira = {
 <td width="25%" align="center"><b>2026 Goal</b><br/><sub>First Client Project</sub></td>
 </tr>
 </table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C2368C,100:FF66CC&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3A0940,100:F6D66C&height=3"/>
 
 ## Tech Stack
 
@@ -170,15 +168,12 @@ Currently leveling up with **React**, **Tailwind CSS**, and **MongoDB** — new 
 <a href="https://github.com/savairaameer0-dot"><img src="https://img.shields.io/badge/GitHub-04302F?style=for-the-badge&logo=github&logoColor=FF66CC"/></a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=savairaameer0-dot&label=Profile%20Views&color=FF66CC&style=flat" alt="profile views"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D66C,50:6B1F6E,100:3A0940&height=120&section=footer"/>
 </div>
 
 <p align="center">˚ ༘ ⋆｡˚ ✧ ⋆ 🌸 ⋆ ✧ ˚｡⋆ ༘˚</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF66CC,50:00827F,100:04302F&height=120&section=footer"/>
-
 <div align="center">
-🌿🌸 Thanks for stopping by — have a lovely day!
+💜 Scroll depth: 100%. Respect. Let's build something sometime.
 </div>
