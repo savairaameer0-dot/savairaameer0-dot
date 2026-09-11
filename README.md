@@ -165,12 +165,12 @@ Currently leveling up with **React**, **Tailwind CSS**, and **MongoDB** — new 
 
 <a href="https://linkedin.com/in/savaira-ameer-024166404"><img src="https://img.shields.io/badge/LinkedIn-3A0940?style=for-the-badge&logo=linkedin&logoColor=F6D66C"/></a>
 <a href="mailto:savairaameer0@gmail.com"><img src="https://img.shields.io/badge/Gmail-3A0940?style=for-the-badge&logo=gmail&logoColor=F6D66C"/></a>
-<a href="https://github.com/savairaameer0-dot"><img src="https://img.shields.io/badge/GitHub-3A0940?style=for-the-badge&logo=github&logoColor=F<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D66C,50:6B1F6E,100:3A0940&height=120&section=footer"/>
+<a href="https://github.com/savairaameer0-dot"><img src="https://img.shields.io/badge/GitHub-3A0940?style=for-the-badge&logo=github&logoColor=F6D66C"/></a>
+<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D66C,50:6B1F6E,100:3A0940&height=120&section=footer"/>
 </div>
 
 <p align="center">˚ ༘ ⋆｡˚ ✧ ⋆ 🌸 ⋆ ✧ ˚｡⋆ ༘˚</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF66CC,50:00827F,100:04302F&height=120&section=footer"/>
-<div align="center">
 💜 Scroll depth: 100%. Respect. Let's build something sometime.
 </div>
