@@ -19,7 +19,7 @@
 
 ## About Me
 
-Hi, I'm **Savaira** 👋 — a software engineering student hand-coding my way into full-stack web development.
+Hi, I'm **Savaira** 👋 — a software engineering student hand-coding my way into full-stack web development.💐
 
 ```js
 const savaira = {
