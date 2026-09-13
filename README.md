@@ -8,8 +8,8 @@
 
 <br/>
 
-<!-- 🕷️ Spidey banner gif -->
-<img width="60%" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"/>
+<!-- 🕷️ Spider-Man pixel art -->
+<img width="260" src="assets/spiderman-swing.png"/>
 
 <br/>
 
