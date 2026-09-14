@@ -7,9 +7,8 @@
 <a href="https://github.com/savairaameer0-dot"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=E62429&center=true&vCenter=true&width=680&lines=%3E+With+Great+Code+Comes+Great+Responsibility;%3E+Web-Slinging+Through+the+MERN+Stack;%3E+Hand-coding+clean%2C+functional+UIs;%3E+Open+to+freelance+work" alt="Typing SVG"/></a>
 
 <br/>
-
-<!-- 🕷️ Spider-Man pixel art -->
-<img width="260" src="assets/spiderman-swing.png"/>
+<!-- 🕷️ Spider-Man swinging gif -->
+<img width="260" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb251NzNwZWo4ZG5hbHFoeGxnMzlzenh2c3c3Y2ZyNnpneWZmYTh5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q8LgSAKurABOSstfW4/giphy.gif"/>
 
 <br/>
 
