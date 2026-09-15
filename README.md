@@ -1,12 +1,16 @@
 <div align="center">
 
 <!-- 🕷️ Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4A0404,100:E62429&height=210&section=header&text=Savaira%20Ameer&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Your%20Friendly%20Neighborhood%20Full-Stack%20Developer&descAlignY=60&descSize=16"/>
+<img width="100%" src="assets/spiderman-banner.jpg"/>
+
+<h1>Savaira Ameer</h1>
+<p><b>Your Friendly Neighborhood Full-Stack Developer</b></p>
 
 <!-- 🕸️ Terminal-style typing headline -->
 <a href="https://github.com/savairaameer0-dot"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=E62429&center=true&vCenter=true&width=680&lines=%3E+With+Great+Code+Comes+Great+Responsibility;%3E+Web-Slinging+Through+the+MERN+Stack;%3E+Hand-coding+clean%2C+functional+UIs;%3E+Open+to+freelance+work" alt="Typing SVG"/></a>
 
 <br/>
+
 <!-- 🕷️ Spider-Man swinging gif -->
 <img width="260" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb251NzNwZWo4ZG5hbHFoeGxnMzlzenh2c3c3Y2ZyNnpneWZmYTh5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q8LgSAKurABOSstfW4/giphy.gif"/>
 
@@ -24,23 +28,26 @@
 
 ## About Me
 
-Hi, I'm **Savaira** 🕷️ — a software engineering student swinging my way into full-stack web development, one clean commit at a time.
+Hi, I'm **Savaira** 🕷️ — a software engineering student building my way into full-stack web development, one hand-coded UI at a time. No templates, no shortcuts — just clean HTML/CSS/JS and a lot of patience.
+
+Currently deep in the MERN stack, with a side quest into AI/Python. Working toward landing my first client on Upwork or Fiverr.
 
 ```js
 const savaira = {
   role: "Software Engineering Student @ UAF, Pakistan",
   alterEgo: "Friendly Neighborhood Dev",
-  learning: ["MERN Stack", "React", "Tailwind CSS"],
+  stack: ["MERN", "AI/Python"],
+  learning: ["React", "Tailwind CSS", "MongoDB"],
   toolkit: ["HTML", "CSS", "JavaScript", "Node", "Express", "MySQL"],
   codeStyle: "hand-crafted UIs — no templates, just CSS & patience",
   currently: "building portfolio projects, one commit at a time",
-  motto: "With great code comes great responsibility",
-  goal2026: "land my first freelance client"
+  goal2026: "land my first freelance client on Upwork / Fiverr",
+  motto: "With great code comes great responsibility"
 };
 ```
 
 <blockquote>
-🕸️ <em>"It's not about how many times you get knocked down — it's about the code you ship after." </em> 🕸️
+🕸️ <em>"It's not about how many times you get knocked down — it's about the code you ship after."</em> 🕸️
 </blockquote>
 
 <table>
@@ -51,6 +58,7 @@ const savaira = {
 <td width="25%" align="center"><b>2026 Goal</b><br/><sub>First Client Project</sub></td>
 </tr>
 </table>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:E62429&height=3"/>
 
 ## Tech Stack
@@ -180,4 +188,3 @@ Currently leveling up with **React**, **Tailwind CSS**, and **MongoDB** — new 
 <p align="center">🕷️ ⋆｡˚ ✧ ⋆ 🕸️ ⋆ ✧ ˚｡⋆ 🕷️</p>
 
 🕸️ Scroll depth: 100%. Your friendly neighborhood dev thanks you for stopping by.
-</div>
