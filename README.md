@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- 🕷️ Header banner -->
-<img width="100%" src="assets/spiderman-banner.jpg"/>
-
-<h1>Savaira Ameer</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E62429,50:4A0404,100:000000&height=140&section=footer&text=Savaira%20Ameer&fontSize=34&fontColor=ffffff&fontAlignY=65"/>
 <p><b>Your Friendly Neighborhood Full-Stack Developer</b></p>
 
 <!-- 🕸️ Terminal-style typing headline -->
